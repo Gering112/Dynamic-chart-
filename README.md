@@ -1,3 +1,4 @@
 # Dynamic-chart-
 
-An IOS application of a pie chart with user interaction 
+Implemented a dynamic user interaction pie chart. 
+Used Cocoapods framework to import the graph library in Xcode
